@@ -1,0 +1,18 @@
+set nu
+set nocompatible
+filetype on
+syntax on
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set noexpandtab
+set history=1000
+set autoindent
+set showmatch
+set incsearch
+set hlsearch
+set fencs = utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
+set termencoding=utf-8
+set encoding=utf-8
+set fileencodings=ucs-bom,utf-8,bp936
+set fileencoding=utf-8
